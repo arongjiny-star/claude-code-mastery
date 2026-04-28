@@ -22,3 +22,7 @@ This is a course workspace for learning Claude Code, hosted on Inflearn. Current
 
 
 
+
+## process3
+1)3번째 커밋에 포함될 내용임. 
+
