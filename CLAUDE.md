@@ -18,5 +18,7 @@ This is a course workspace for learning Claude Code, hosted on Inflearn. Current
 3) 요청이 명확하지 않을 때 추론 및 실행하지 말고 우선 내 설명을 제대로 이해했는지 말해
 
 
-## Structure
+## Structure2
+
+
 
